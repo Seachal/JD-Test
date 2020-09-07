@@ -37,6 +37,7 @@ public class MainActivity extends BaseActivity implements MainContract.View, Bot
     private FragmentManager mFragmentManager;
     private FindFragment mFindFragment;
     private MyFragment mMyFragment;
+//    sca: 没有发现购物车相关代码
 
 
     @Override

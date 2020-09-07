@@ -52,6 +52,7 @@
             android:layout_height="15dp"
             android:src="@drawable/xk"
             />
+<!--        帧动画，  -->
         <ImageView
             android:visibility="gone"
             android:id="@+id/donghua"

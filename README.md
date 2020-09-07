@@ -72,3 +72,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+其实就首页能看，发现能看，其他都没数据,  
+分类、 购物车， 不能用 我的模块展示了一个 service通信的案例。
+
+
